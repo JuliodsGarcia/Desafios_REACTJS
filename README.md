@@ -20,7 +20,7 @@ Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do
 
 <br />
 
-<a href="https://todo-list-gbdev13.vercel.app/](https://todo-1q2nqvwe6-juliodsgarcia.vercel.app/" target="_blank">
+<a href="todo-app-xi-six-33.vercel.app" target="_blank">
 <img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
 </a>
 
